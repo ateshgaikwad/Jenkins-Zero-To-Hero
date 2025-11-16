@@ -5,7 +5,7 @@ pipeline{
     
         stage('hello'){
             steps {
-                echo "hello"
+                echo "hello i am ichigo"
             }
         }
 }
